@@ -38,7 +38,6 @@ feature_row3:
     btn_label: "mehr dazu ..."
     btn_class: "btn--inverse"    
 
-
 feature_row4:
   - image_path: /images/template/04-solution-strategy-overview.svg
     alt: "solution strategy overview"
@@ -47,7 +46,6 @@ feature_row4:
     url: "https://docs.arc42.org/section-4/"
     btn_label: "mehr dazu ..."
     btn_class: "btn--inverse"    
-
 
 feature_row5:
 - image_path: /images/template/05-building-block-overview.png
@@ -94,12 +92,11 @@ feature_row9:
   btn_label: "mehr dazu ..."
   btn_class: "btn--inverse"    
 
-
 feature_row10:
 - image_path: /images/template/10-q-scenario-overview.png
   alt: "quality"
   title: "10. Qualitätsanforderungen"
-  excerpt: 'Qualitätanforderungen in Form von Szenarien, mit einem Qualitätsbaum für den Überblick. Die allerwichtigsten dieser Qualtätsanforderungen sollten schon im Kapitel 1.2. (Qualitätsziele) aufgeführt sein. '
+  excerpt: 'Qualitätsanforderungen in Form von Szenarien, mit einem Qualitätsbaum für den Überblick. Die allerwichtigsten dieser Qualitätsanforderungen sollten schon im Kapitel 1.2. (Qualitätsziele) aufgeführt sein. '
   url: "https://docs.arc42.org/section-10/"
   btn_label: "mehr dazu ..."
   btn_class: "btn--inverse"    
@@ -144,7 +141,7 @@ arc42 gibt praxisorientierte Antworten auf die folgenden zwei Fragen:
 * **_Wie_** sollen wir kommunizieren/dokumentieren?
 
 Dazu haben wir ein einfaches Template mit 12 Kapiteln entwickelt, in denen Sie alles Wissenswerte über die Architektur unterbringen können.
-arc42 läßt sich einfach an Ihre spezifischen Bedürfnisse anpassen.
+arc42 lässt sich einfach an Ihre spezifischen Bedürfnisse anpassen.
 
 ![Die 12 Kapitel von arc42](/images/template/template-struktur-focus.png)
 
