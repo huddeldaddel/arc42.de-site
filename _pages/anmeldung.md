@@ -44,15 +44,18 @@ excerpt: "Wir freuen uns auf Sie!"
 <label for="kurs">Für welchen Kurs melden Sie an?</label>
 <select id="kurs" name="Kurs" required>
   
-  <option value="24-09 Req4Arc">Req4Arc, 17.-19. September 2024 Frankfurt</option>
-  <option value="24-11 MSA online">Mastering SW Architectures, 14.-16. November 2024 (ONLINE, ENGLISH)</option>
-  <option value="24-12 MSA">Mastering SW Architectures, 3.-6. Dezember 2024 München (WARTELISTE)</option>
+
   <option value="25-01 MSA">Mastering SW Architectures, 21.-24. Januar 2025 München</option>
   <option value="25-03 MSA">Mastering SW Architectures, 18.-21. März 2025 München</option>
-  <option value="25-04 Req4Arc">Req4Arc, 1.-3. April 2025 München</option>
+  <option value="25-04 Req4Arc">Req4Arc, 31.März-2. April 2025 München</option>
   <option value="25-05 ADOC">ADOC, 5.-6. Mai 2025 Mannheim</option>
-  <option value="25-05 IMPROVE">IMPROVE, 7.-9. Mai 2025 Mannheim</option>
+  <option value="25-05 IMPROVE">IMPROVE, 7.-9. Mai 2025 Mannheim (Peter+Gernot)</option>
   <option value="25-05 MSA">Mastering SW Architectures, 20.-23. Mai 2025 Mannheim</option>
+  <option value="25-07 IMPROVE">IMPROVE, 15.-17. Juli 2025 Hamburg (Carola+Gernot)</option>
+  <option value="25-09 MSA">Mastering SW Architectures, 23.-26. Sept 2025 Frankfurt</option>
+  <option value="25-09 Req4Arc">Req4Arc, 30. Sep - 2.Okt 2025 Frankfurt</option>
+  <option value="25-11 IMPROVE">IMPROVE, 25.-27. November 2025 Hamburg (Carola+Gernot)</option>
+  <option value="25-12 MSA">Mastering SW Architectures, 2.-5. Dez 2025 München</option>
   <option value="sonstige">Sonstige</option>
 </select>
 
